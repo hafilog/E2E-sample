@@ -12,3 +12,6 @@ $ export E2E_PASSWORD=[GitHubのpassword]
 ```
 $ node node_modules/.bin/codeceptjs run --steps
 ```
+
+## 参考
+* E2EテストでWEBサイトをチェック（CodeceptJS × Puppeteer） ( https://hafilog.com/e2e-test )
